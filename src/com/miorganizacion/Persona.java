@@ -16,7 +16,7 @@ public class Persona {
         System.out.println("Hola, soy " + nombre + " y tengo " + edad + " años.");
     }
 
-    
+    // Instancia
         public static void main(String[] args) {
      
             Persona Juana = new Persona("Mongo", 32);
